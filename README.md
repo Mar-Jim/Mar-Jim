@@ -8,4 +8,3 @@ I'm a recent Longhorn🤘 Graduate with a BS in Petroleum Engineering who is pas
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love to play tennis🎾, climb🧗‍♀️, and dance 🕺 💃 . 
 - 💡 Check out my Data Analytics and Machine Learning Projects [Here](https://github.com/Mar-Jim/Data-Analytics-UT)
--->
