@@ -1,4 +1,4 @@
-### Hi! I'm Marcelo 👋😁
+### Hi! I'm Marcelo <img src="Assets/Gifs/Hi.gif" width="29px">
 
 I'm a recent Longhorn🤘 Graduate with a BS in Petroleum Engineering who is passionate about Computer Science - Specifically Data Analytics, Machine Learning, and Geostatistics.
 
