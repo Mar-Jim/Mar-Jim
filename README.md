@@ -7,5 +7,5 @@ I'm a recent Longhorn🤘 Graduate with a BS in Petroleum Engineering who is pas
 - 📃 [**Here's my Resume**]()
 - 📫 How to reach me: mar_jim@utexas.edu
 - 😄 Pronouns: He/Him/His
-- 💡 Check out my [**Data Analytics**](https://github.com/Mar-Jim/Data-Analytics-UT) and Machine Learning Projects 
+- 💡 [**Check out my Data Analytics and Machine Learning Projects**](https://github.com/Mar-Jim/Data-Analytics-UT) 
 - ⚡ Fun fact: I love to play tennis🎾, climb🧗‍♀️, and dance 🕺 💃 . 
